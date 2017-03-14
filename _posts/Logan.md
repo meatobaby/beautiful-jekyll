@@ -1,3 +1,8 @@
+---
+layout: post
+title: 《金刚狼3：殊死一战》影评
+published: true
+---
 # 《金刚狼3：殊死一战》影评
 
 **<font color=#D87093 size=5>写在前面</font>**
